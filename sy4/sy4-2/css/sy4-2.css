@@ -1,0 +1,102 @@
+#header{
+    width: 37cm;
+    height: 2.5cm;
+    border-bottom:0.3cm solid black;
+    position: relative;
+}
+.left{
+    width: 13cm;
+    height: 2.5cm;
+    margin-left: 2.5cm;
+    float: left;
+}
+.right {
+    width: 17cm;
+    height: 2.5cm;
+    margin-right: 2.5cm;
+    float: right;
+}
+#wenzi{
+    position: absolute;
+    margin-top: 1.3cm;
+    margin-left: 18cm;
+}
+#middle{
+    width: 37cm;
+    height: 8cm;
+    margin-top: 5px;
+}
+#middle1{
+    width: 37cm;
+    height: 12cm;
+    border-bottom:0.1cm solid dimgrey;
+}
+.left1{
+    width: 4cm;
+    height: 12cm;
+    background-image: url("../image/sidebar.jpg");
+    background-repeat: no-repeat;
+    margin-left: 1cm;
+    float: left;
+}
+.left2{
+    width: 4cm;
+    height: 3cm;
+    padding-top: 4cm;
+    float: left;
+}
+.left3{
+    width: 4cm;
+    height: 4cm;
+    float: left;
+}
+.right1{
+    width: 30cm;
+    height: 6cm;
+    float: right;
+    margin-right: 0.8cm;
+    border-bottom: 2px dashed dimgrey;
+}
+.rightleft{
+    width: 10cm;
+    height: 6cm;
+    margin-bottom: 0.5cm;
+    float: left;
+}
+#content{
+    margin-left: 1cm;
+    margin-right: 1cm;
+    margin-top: 0.3cm;
+    width: 6cm;
+    height: 4cm;
+}
+.right2{
+    width: 30cm;
+    height: 6cm;
+    float: right;
+    margin-right: 0.8cm;
+}
+.rightright{
+    width: 20cm;
+    height: 6cm;
+    float: right;
+}
+#biao{
+    width: 3cm;
+    height: 0.6cm;
+}
+#footer{
+    width: 37cm;
+    height: 3cm;
+    background-color: lightgray;
+    align-content: center;
+    margin-top: 0.1cm;
+}
+.footerid{
+    width: 18cm;
+    height: 1.5cm;
+    margin-left: 11cm;
+    padding-top: 1cm;
+}
+
+
